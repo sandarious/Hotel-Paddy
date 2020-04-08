@@ -191,6 +191,7 @@ p{
 
     .gallery_image {
         display: flex;
+        padding-bottom: 10px;
     }
 
     #gallery-1 {
