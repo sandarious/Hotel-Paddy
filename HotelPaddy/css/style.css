@@ -31,15 +31,6 @@ p{
     color: white;
 }
 
-.bg-primary {
-    background: #93cb52;
-    color: white;
-}
-
-.p-1 { padding: 1.5rem;}
-.p-2 { padding: 2rem;}
-.p-3 { padding: 3rem;}
-
 #navbar{
     color: #fff;
     overflow: auto;
@@ -467,29 +458,6 @@ p{
       margin-right: 30px;
       overflow: hidden;
   }
-
-  #contact {
-    display: flex;
-}
-
-#contact .contact-form, #contact .map {
-    flex: 1;
-}
-
-#contact .contact-form .form-group {
-    margin: 0.75rem;
-}
-
-#contact .contact-form label {
-    display: block;
-}
-
-#contact .contact-form input,
-#contact .contact-form textarea {
-    width: 100%;
-    padding: 0.5rem;
-}
-
 
 
 
